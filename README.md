@@ -1,10 +1,5 @@
 ### Hi there 👋
+Hi, I’m a web developer who enjoys creating dynamic, user-friendly websites and applications. I focus on design and functionality, ensuring seamless, engaging.
+reach me: rashidfarabi@gmail.com
 
-- 🔭 I’m currently working on MERN Stack and Next js along with Redux (State Management) also Git
-- 🌱 I’m currently learning Nodejs
-- 👯 I’m looking to collaborate on javascript based Project
-- 🤔 I’m looking for help with technologies to improve clean and optimized code
-- 💬 Ask me about Javascript and React
-- 📫 How to reach me: rashidfarabi@gmail.com
-- ⚡ Fun fact: No fun fact till now
 
