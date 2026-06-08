@@ -70,8 +70,6 @@ I'm a **web developer from Dhaka, Bangladesh** passionate about crafting scalabl
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farabi1&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
-
 </div>
 
 ---
