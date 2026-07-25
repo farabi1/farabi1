@@ -1,116 +1,207 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mamunur+Rashid+Farabi+%F0%9F%91%8B;Full-Stack+Web+Developer;Backend+Systems+%7C+Clean+Design;Always+building%2C+always+learning." alt="Typing SVG" />
+<!-- Header Animated Typing SVG -->
+<a href="https://my-portfolio-72743.web.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mamunur+Rashid+Farabi+%F0%9F%91%8B;Full-Stack+Developer+%7C+Laravel+%26+React;Building+Scalable+%26+Reliable+Web+Systems;Competitive+Programmer+%40+Codeforces" alt="Typing SVG Banner" />
+</a>
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=farabi1&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/farabi1?label=Followers&style=flat&color=58a6ff" alt="Followers" />
+<p align="center">
+  <a href="https://github.com/farabi1">
+    <img src="https://komarev.com/ghpvc/?username=farabi1&label=PROFILE+VIEWS&color=007ACC&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/farabi1?tab=followers">
+    <img src="https://img.shields.io/github/followers/farabi1?label=FOLLOWERS&style=for-the-badge&color=1F8ACB&logo=github&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://github.com/farabi1">
+    <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BANGLADESH-00599C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-I'm a **web developer from Dhaka, Bangladesh** passionate about crafting scalable, dynamic applications — with a sharp focus on backend architecture, performance, and reliability. I care as much about clean code as I do about clean design.
-
-- 🔭 Currently building full-stack applications with **React** & **Node.js**
-- 🏗️ Focused on **backend systems**, performance tuning, and reliable infrastructure
-- ⚔️ Competitive programmer on **Codeforces** & **CodeChef**
-- 🌱 Always exploring new patterns, tools, and approaches
-- 📫 Reach me at **rashidfarabi@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-
-**Backend & Database**
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Other**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        I'm a passionate <b>Full-Stack Web Developer</b> based in Dhaka, Bangladesh, specializing in crafting high-performance, scalable web applications with <b>Laravel</b>, <b>React</b>, <b>Node.js</b>, and modern backend architectures.
+      </p>
+      <ul>
+        <li>🔭 Currently building full-stack platforms with <b>Laravel</b>, <b>React</b>, <b>Node.js</b> & <b>Express</b></li>
+        <li>🏗️ Deep interest in <b>backend infrastructure</b>, database design, and performance tuning</li>
+        <li>⚔️ Active Competitive Programmer solving algorithmic problems on <b>Codeforces</b> & <b>CodeChef</b></li>
+        <li>🌱 Continuously learning modern system design patterns and cloud deployment workflows</li>
+        <li>📫 Open for collaboration! Reach out at <a href="mailto:rashidfarabi@gmail.com"><b>rashidfarabi@gmail.com</b></a></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://my-portfolio-72743.web.app/">
+        <img src="https://skillicons.dev/icons?i=laravel,php,react,nodejs,express,mongodb,js,c,git,vscode&theme=dark" width="230" alt="Tech Cloud" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=farabi1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farabi1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,react,js,html,css,tailwind,nodejs,express,mongodb,firebase,c,git,github,vscode&theme=dark" alt="Skill Icons Matrix" />
+  </a>
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=farabi1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend & DB** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) |
+| **Cloud & Tools** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+
+---
+
+### 📊 GitHub Analytics & Coding Activity
+
+<div align="center">
+  <a href="https://github.com/farabi1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=farabi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Farabi's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/farabi1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farabi1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  </a>
+</div>
 
 <br/>
 
+<div align="center">
+  <a href="https://wakatime.com/@farabi1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=farabi1&theme=tokyonight&hide_border=true&layout=compact" alt="Farabi's WakaTime Stats" height="175" />
+  </a>
+  <a href="https://github.com/farabi1">
+    <img align="center" src="https://streak-stats.demolab.com?user=farabi1&theme=tokyonight&hide_border=true" alt="GitHub Streak Tracker" height="175" />
+  </a>
+</div>
+
+<br/>
+
+<!-- WakaTime Weekly Detailed Breakdown -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farabi1&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [🏭 Manufacturer Website](https://github.com/farabi1/manufacturer-website-client-side) | Full-stack manufacturer platform with product management, orders & auth | React · Tailwind · Node.js · Firebase |
-| [🏨 Reservation & Booking System](https://github.com/farabi1/Online-Reservation-and-Booking-System) | Online booking & reservation management system | JavaScript |
-| [📦 Warehouse Management](https://github.com/farabi1/warehouse-management-client-side) | Client-side inventory & warehouse management app | React · JavaScript |
-| [🔧 Herbert C Interpreter](https://github.com/farabi1/herbertC) | Implementation of the Herbert C programming language | C |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🏭 Manufacturer Website</h4>
+      <p align="center">Full-stack manufacturer platform featuring complete product management, user authentication, orders, and payment integrations.</p>
+      <p align="center">
+        <code>React</code> · <code>Tailwind</code> · <code>Node.js</code> · <code>MongoDB</code> · <code>Firebase</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/farabi1/manufacturer-website-client-side">
+          <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🏨 Reservation & Booking System</h4>
+      <p align="center">Online reservation system built to manage bookings, user availability, scheduling, and admin workflows.</p>
+      <p align="center">
+        <code>JavaScript</code> · <code>Node.js</code> · <code>Express</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/farabi1/Online-Reservation-and-Booking-System">
+          <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">📦 Warehouse Management</h4>
+      <p align="center">Client-side inventory management application designed for real-time tracking, stock updates, and item lifecycle control.</p>
+      <p align="center">
+        <code>React</code> · <code>JavaScript</code> · <code>Firebase</code> · <code>Tailwind</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/farabi1/warehouse-management-client-side">
+          <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🔧 Herbert C Interpreter</h4>
+      <p align="center">Custom C language implementation and execution engine for the Herbert C programming environment, emphasizing parsing and execution performance.</p>
+      <p align="center">
+        <code>C</code> · <code>Compilers</code> · <code>Data Structures</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/farabi1/herbertC">
+          <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚔️ Competitive Programming
-
-I enjoy sharpening my problem-solving skills through competitive programming.
+### ⚔️ Competitive Programming
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-farabi__rashid-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/farabi_rashid)
-[![CodeChef](https://img.shields.io/badge/CodeChef-farabi1-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/farabi1)
+I actively practice problem solving, algorithms, and data structures.
+
+<br/>
+
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-farabi__rashid-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/farabi_rashid)
+&nbsp;&nbsp;
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-farabi1-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/farabi1)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+### 🌐 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-72743.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamunur-rashid-farabi/)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/farabi_rashid)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashidfarabi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farabi1)
+<a href="https://my-portfolio-72743.web.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/mamunur-rashid-farabi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/farabi_rashid">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+</a>
+<a href="mailto:rashidfarabi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/farabi1">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
