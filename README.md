@@ -68,23 +68,20 @@
 
 ---
 
-### 📊 GitHub Analytics & Coding Activity
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
   <a href="https://github.com/farabi1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=farabi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Farabi's GitHub Stats" height="180" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=farabi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Farabi's GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/farabi1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farabi1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=farabi1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://wakatime.com/@farabi1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=farabi1&theme=tokyonight&hide_border=true&layout=compact" alt="Farabi's WakaTime Stats" height="175" />
-  </a>
   <a href="https://github.com/farabi1">
     <img align="center" src="https://streak-stats.demolab.com?user=farabi1&theme=tokyonight&hide_border=true" alt="GitHub Streak Tracker" height="175" />
   </a>
@@ -92,7 +89,7 @@
 
 <br/>
 
-<!-- WakaTime Weekly Detailed Breakdown -->
+<!-- WakaTime Weekly Coding Stats (Updated by GitHub Action) -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -173,7 +170,7 @@ I actively practice problem solving, algorithms, and data structures.
 
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-farabi__rashid-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/farabi_rashid)
 &nbsp;&nbsp;
-[![CodeChef Profile](https://img.shields.io/badge/CodeChef-farabi1-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/farabi1)
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-farabi1-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codeforces.com/profile/farabi_rashid)
 
 </div>
 
