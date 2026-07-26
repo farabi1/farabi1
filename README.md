@@ -91,6 +91,19 @@
 
 <!-- WakaTime Weekly Coding Stats (Updated by GitHub Action) -->
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 December 2023 - To: 25 July 2026
+
+Total Time: 81 hrs 40 mins
+
+PHP              36 hrs 35 mins        ░░░░░░░░░░░██████████████   44.78 %
+C                11 hrs 4 mins         ░░░██████████████████████   13.56 %
+HTML             10 hrs 30 mins        ░░░██████████████████████   12.87 %
+Python           5 hrs 33 mins         ░░███████████████████████   06.79 %
+CSS              5 hrs 26 mins         ░░███████████████████████   06.67 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
