@@ -72,10 +72,10 @@
 
 <div align="center">
   <a href="https://github.com/farabi1">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=farabi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Farabi's GitHub Stats" height="180" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=farabi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Farabi's GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/farabi1">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=farabi1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=farabi1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
   </a>
 </div>
 
@@ -109,7 +109,7 @@ CSS              5 hrs 26 mins         ░░███████████�
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farabi1&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=farabi1&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
 </div>
 
 ---
